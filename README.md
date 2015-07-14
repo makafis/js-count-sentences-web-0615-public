@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: strings, functions
----
-
 # Count Sentences
 
 ## Description 
